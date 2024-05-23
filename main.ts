@@ -1112,7 +1112,7 @@ let myCar = carInfo("Toyota", "Corolla", ["color", "blue"], ["year", 2024]);
 
 // Printing the returned object
 console.log(myCar);
-
+//add tags
 
 //                                              ❄️  🅴🅽🅳  ❄️
 
